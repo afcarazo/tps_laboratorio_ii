@@ -68,12 +68,18 @@ namespace MiCalculadora
         /// <param name="e"></param>
         private void btnOperar_Click(object sender, EventArgs e)
         {
+            string operador = this.cmbOperador.Text;
+           
             if (this.EsNumero(this.txtNumero1.Text) && this.EsNumero(this.txtNumero2.Text)) {
-                double resultado = FormCalculadora.Operar(this.txtNumero1.Text, this.txtNumero2.Text, this.cmbOperador.Text);
+                if (operador == string.Empty)
+                {
+                    operador = "+";
+                }
+
+                double resultado = FormCalculadora.Operar(this.txtNumero1.Text, this.txtNumero2.Text,operador);
                 this.lblResultado.Text = resultado.ToString();
-                this.lstOperaciones.Items.Add(this.txtNumero1.Text + this.cmbOperador.Text +
-                                              this.txtNumero2.Text + "=" + resultado.ToString());
-            }
+                lstOperaciones.Items.Add(this.txtNumero1.Text + operador + this.txtNumero2.Text + "=" + resultado.ToString());
+                }
             }
 
         /// <summary>
@@ -84,6 +90,12 @@ namespace MiCalculadora
         /// <param name="e"></param>
         private void FormCalculadora_Load(object sender, EventArgs e)
         {
+            this.cmbOperador.Items.Add(string.Empty);
+            this.cmbOperador.Items.Add("+");
+            this.cmbOperador.Items.Add("-");
+            this.cmbOperador.Items.Add("/");
+            this.cmbOperador.Items.Add("*");
+     
             this.Limpiar();
         }
         /// <summary>

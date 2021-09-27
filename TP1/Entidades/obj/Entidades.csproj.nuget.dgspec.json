@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Agust\\source\\repos\\Entidades\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP1\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Agust\\source\\repos\\Entidades\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP1\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agust\\source\\repos\\Entidades\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP1\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Agust\\source\\repos\\Entidades\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP1\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Agust\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agust\\source\\repos\\Entidades\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP1\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Agust\\AppData\\Roaming\\NuGet\\NuGet.Config",

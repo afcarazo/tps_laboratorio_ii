@@ -116,12 +116,6 @@ namespace MiCalculadora
             this.cmbOperador.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbOperador.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.cmbOperador.FormattingEnabled = true;
-            this.cmbOperador.Items.AddRange(new object[] {
-            "\t",
-            "+",
-            "-",
-            "/",
-            "*"});
             this.cmbOperador.Location = new System.Drawing.Point(184, 82);
             this.cmbOperador.Name = "cmbOperador";
             this.cmbOperador.Size = new System.Drawing.Size(136, 33);

@@ -30,6 +30,7 @@ namespace Entidades
                     resultado = num1 / num2;
                     break;
                 default:
+                    resultado = num1 + num2;
                     break;
             }
             return resultado;

@@ -96,18 +96,16 @@ namespace Entidades
         /// <summary>
         /// Constructor que asigna al atributo numero el valor 0
         /// </summary>
-        public Operando()
+        public Operando():this(0)
         {
-            this.numero = 0;
         }
 
         /// <summary>
         /// constructor que asigna al atributo numero el tipo de dato double 
         /// </summary>
         /// <param name="numero"></param>
-        public Operando(double numero)
+        public Operando(double numero):this(numero.ToString())
         {
-            this.numero = numero;
         }
         
         /// <summary>
@@ -178,12 +176,11 @@ namespace Entidades
         /// <returns>el numero convertido a double, si es posible, de lo contrario retorna 0.</returns>
         private double ValidarOperando(string strNumero)
         {
-            bool coversionExitosa = double.TryParse(strNumero, out double numeroConvertido);
-            double retorno = 0;
+            double retorno;
 
-            if (coversionExitosa)
+            if (!double.TryParse(strNumero, out retorno))
             {
-                retorno = numeroConvertido;
+                retorno = 0;
             }
 
             return retorno;

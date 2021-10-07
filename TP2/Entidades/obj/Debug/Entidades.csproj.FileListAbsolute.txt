@@ -16,3 +16,9 @@ C:\Users\Agust\Desktop\TP 2\TP-02\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Agust\Desktop\TP 2\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Agust\Desktop\TP 2\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\Agust\Desktop\TP 2\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP2\Entidades\obj\Debug\Entidades.pdb

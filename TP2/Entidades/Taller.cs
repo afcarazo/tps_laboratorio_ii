@@ -70,24 +70,22 @@ namespace Entidades
                 switch (tipo)
                 {
                     case ETipo.Ciclomotor:
-                        Ciclomotor ciclomotor = v as Ciclomotor;
-                        if (!(ciclomotor is null))
+
+                        if (v is Ciclomotor)
                         {
-                            sb.AppendLine(ciclomotor.Mostrar());
+                            sb.AppendLine(v.Mostrar());
                         }
                         break;
                     case ETipo.Sedan:
-                        Sedan sedan = v as Sedan;
-                        if (!(sedan is null))
+                        if (v is Sedan)
                         {
-                            sb.AppendLine(sedan.Mostrar());
+                            sb.AppendLine(v.Mostrar());
                         }
                         break;
                     case ETipo.SUV:
-                        Suv suv = v as Suv;
-                        if (!(suv is null))
+                        if (v is Suv)
                         {
-                            sb.AppendLine(suv.Mostrar());
+                            sb.AppendLine(v.Mostrar());
                         }
                         break;
                     default:

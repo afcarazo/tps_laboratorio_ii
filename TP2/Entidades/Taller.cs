@@ -70,7 +70,6 @@ namespace Entidades
                 switch (tipo)
                 {
                     case ETipo.Ciclomotor:
-
                         if (v is Ciclomotor)
                         {
                             sb.AppendLine(v.Mostrar());

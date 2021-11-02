@@ -48,14 +48,7 @@ namespace Entidades
         /// <returns>retorna como string el numero binario si la conversion es posible, de lo contrario retorna "Valor inválido."</returns>
         public string DecimalBinario(double numero)
         {
-            string retorno = "Valor inválido.";
-            long auxNumero = Convert.ToInt64(Math.Abs(numero)); 
-
-            if (numero > 0)
-            {
-                retorno = Convert.ToString(auxNumero, 2);
-            }
-            return retorno;
+           return this.DecimalBinario(numero.ToString());
         }
         /// <summary>
         /// Convierte un numero decimal a binario
@@ -65,10 +58,13 @@ namespace Entidades
         public string DecimalBinario(string numero)
         {
             string retorno = "valor inválido";
-            double auxNumero = this.ValidarOperando(numero);
-            if (auxNumero != 0)
+            int numeroAux;
+            if (int.TryParse(numero,out numeroAux))
             {
-                retorno = this.DecimalBinario(auxNumero);
+                if (numeroAux>0)
+                {
+                    retorno = Convert.ToString(numeroAux, 2);
+                }
             }
             return retorno;
         }
@@ -125,8 +121,7 @@ namespace Entidades
         /// <returns>retorna la resta entre ambos numeros</returns>
         public static double operator -(Operando n1, Operando n2)
         {
-            double retorno = n1.numero - n2.numero;
-            return retorno;
+            return n1.numero - n2.numero; 
         }
 
         /// <summary>
@@ -137,8 +132,7 @@ namespace Entidades
         /// <returns>retorna la multiplicacion entre ambos numeros</returns>
         public static double operator *(Operando n1, Operando n2)
         {
-            double retorno = n1.numero * n2.numero;
-            return retorno;
+            return n1.numero * n2.numero; 
         }
 
         /// <summary>
@@ -165,8 +159,7 @@ namespace Entidades
         /// <returns>retorna la suma de los numeros</returns>
         public static double operator +(Operando n1, Operando n2)
         {
-            double retorno = n1.numero + n2.numero;
-            return retorno;
+            return n1.numero + n2.numero;
         }
 
         /// <summary>

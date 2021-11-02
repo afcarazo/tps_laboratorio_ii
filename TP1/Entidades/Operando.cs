@@ -48,14 +48,7 @@ namespace Entidades
         /// <returns>retorna como string el numero binario si la conversion es posible, de lo contrario retorna "Valor inválido."</returns>
         public string DecimalBinario(double numero)
         {
-            string retorno = "Valor inválido.";
-            long auxNumero = Convert.ToInt64(Math.Abs(numero)); 
-
-            if (numero > 0)
-            {
-                retorno = Convert.ToString(auxNumero, 2);
-            }
-            return retorno;
+            return this.DecimalBinario(numero.ToString());
         }
         /// <summary>
         /// Convierte un numero decimal a binario
@@ -65,10 +58,14 @@ namespace Entidades
         public string DecimalBinario(string numero)
         {
             string retorno = "valor inválido";
-            double auxNumero = this.ValidarOperando(numero);
-            if (auxNumero != 0)
+            int auxNumero;
+            if (int.TryParse(numero,out auxNumero))
             {
-                retorno = this.DecimalBinario(auxNumero);
+                if (auxNumero>0) 
+                {
+                    retorno = Convert.ToString(auxNumero, 2);
+                }
+            
             }
             return retorno;
         }

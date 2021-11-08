@@ -1,0 +1,18 @@
+﻿Los seguros mas caros pertenecen a los asegurados: 
+Nombre: Laila
+Apellido: Campo
+Localidad: Wilde
+Email: lailaC@gmail.com
+Genero: Femenino
+Seguro: Plan de pago Efectivo
+Tipo de seguro: TercerosCompleto
+Monto total: 12100
+
+Vehiculo: Marca:Honda
+Tipo vehiculo: Camioneta
+Año: 2021
+Patente FEWE22
+Modelo Honda cr-v 2021
+
+Total: 1
+

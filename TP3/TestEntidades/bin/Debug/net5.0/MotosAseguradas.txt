@@ -1,0 +1,19 @@
+﻿Motos Asegurados: 
+Nombre: Victor
+Apellido: Ocampo
+Localidad: Lanus
+Email: vicOcampo@gmail.com
+Genero: Masculino
+Seguro: Plan de pago Debito
+Tipo de seguro: ResponsabilidadCivil
+Monto total: 2000
+
+Vehiculo: Tipo vehiculo: Moto
+Año: 2021
+Patente REWE62
+Modelo Yamaha Xtz
+Marca: Yamaha
+Cilindrada: 150
+
+Total: 1
+

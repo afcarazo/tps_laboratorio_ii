@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Asegurado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Seguro>
+    <PlanDePago>Debito</PlanDePago>
+    <TipoDeSeguro>ResponsabilidadCivil</TipoDeSeguro>
+    <MontoTotal>3300</MontoTotal>
+  </Seguro>
+  <Vehiculo xsi:type="Auto">
+    <TipoVehiculo>Auto</TipoVehiculo>
+    <Anio>2002</Anio>
+    <Patente>ASDE22</Patente>
+    <Marca>Chevrolet</Marca>
+    <Modelo>Chevrolet Agile 1.4 LS/L14</Modelo>
+  </Vehiculo>
+  <Localidad>Avellaneda</Localidad>
+  <Email>ernestogomez@gmail.com</Email>
+  <Apellido>Gomez</Apellido>
+  <Genero>Masculino</Genero>
+  <Dni>43405871</Dni>
+  <Nombre>Ernesto</Nombre>
+</Asegurado>

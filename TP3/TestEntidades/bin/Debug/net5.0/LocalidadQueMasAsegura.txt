@@ -1,0 +1,33 @@
+﻿La localidad que más asegura es:  
+QuilmesLista de asegurados en la localidad: 
+Nombre: Andy
+Apellido: Rivas
+Localidad: Quilmes
+Email: andy0584@gmail.com
+Genero: NoBinario
+Seguro: Plan de pago Efectivo
+Tipo de seguro: TercerosCompleto
+Monto total: 6000
+
+Vehiculo: Marca:Toyota
+Tipo vehiculo: Auto
+Año: 2017
+Patente AERE22
+Modelo Toyota camry 2.5 aut l/2012
+
+Nombre: Antonia
+Apellido: Fernandez
+Localidad: Quilmes
+Email: AntoniaF@gmail.com
+Genero: Femenino
+Seguro: Plan de pago Debito
+Tipo de seguro: ResponsabilidadCivil
+Monto total: 3700
+
+Vehiculo: Marca:Renault
+Tipo vehiculo: Auto
+Año: 2019
+Patente RFDE92
+Modelo Renault c320 privilege p 6x4 construction
+
+

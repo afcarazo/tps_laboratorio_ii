@@ -1,0 +1,108 @@
+﻿Listado de asegurados: 
+Nombre: Tomas
+Apellido: Gallardo
+Localidad: Berazategui
+Email: tomasgallardo@gmail.com
+Genero: Masculino
+Seguro: Plan de pago Debito
+Tipo de seguro: ResponsabilidadCivil
+Monto total: 3500
+
+Vehiculo: Marca:Renault
+Tipo vehiculo: Auto
+Año: 2019
+Patente AFDE92
+Modelo Renault c320 Privilege 6x4 construction
+
+Nombre: Irina
+Apellido: Ruz
+Localidad: Glew
+Email: irina@gmail.com
+Genero: Femenino
+Seguro: Plan de pago Efectivo
+Tipo de seguro: ResponsabilidadCivil
+Monto total: 3100
+
+Vehiculo: Marca:Peugeot
+Tipo vehiculo: Auto
+Año: 2017
+Patente ASDE22
+Modelo Peugeot 2008 1.6 Active
+
+Nombre: Laila
+Apellido: Campo
+Localidad: Wilde
+Email: lailaC@gmail.com
+Genero: Femenino
+Seguro: Plan de pago Efectivo
+Tipo de seguro: TercerosCompleto
+Monto total: 12100
+
+Vehiculo: Marca:Honda
+Tipo vehiculo: Camioneta
+Año: 2021
+Patente FEWE22
+Modelo Honda cr-v 2021
+
+Nombre: Victor
+Apellido: Ocampo
+Localidad: Lanus
+Email: vicOcampo@gmail.com
+Genero: Masculino
+Seguro: Plan de pago Debito
+Tipo de seguro: ResponsabilidadCivil
+Monto total: 2000
+
+Vehiculo: Tipo vehiculo: Moto
+Año: 2021
+Patente REWE62
+Modelo Yamaha Xtz
+Marca: Yamaha
+Cilindrada: 150
+
+Nombre: Andy
+Apellido: Rivas
+Localidad: Quilmes
+Email: andy0584@gmail.com
+Genero: NoBinario
+Seguro: Plan de pago Efectivo
+Tipo de seguro: TercerosCompleto
+Monto total: 6000
+
+Vehiculo: Marca:Toyota
+Tipo vehiculo: Auto
+Año: 2017
+Patente AERE22
+Modelo Toyota camry 2.5 aut l/2012
+
+Nombre: Jess
+Apellido: Ocampo
+Localidad: LomasDeZamora
+Email: jessOcampo@gmail.com
+Genero: NoBinario
+Seguro: Plan de pago Debito
+Tipo de seguro: ResponsabilidadCivil
+Monto total: 6100
+
+Vehiculo: Marca:Volkswagen
+Tipo vehiculo: Auto
+Año: 2020
+Patente ASDE22
+Modelo VW 10.150 E 39
+
+Nombre: Antonia
+Apellido: Fernandez
+Localidad: Quilmes
+Email: AntoniaF@gmail.com
+Genero: Femenino
+Seguro: Plan de pago Debito
+Tipo de seguro: ResponsabilidadCivil
+Monto total: 3700
+
+Vehiculo: Marca:Renault
+Tipo vehiculo: Auto
+Año: 2019
+Patente RFDE92
+Modelo Renault c320 privilege p 6x4 construction
+
+

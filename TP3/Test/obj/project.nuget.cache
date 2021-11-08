@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MMnufY9p8rKJIQ1xHdcL0GfMEDWE2QmpPAwm7MfYHcxNsWuppRyXKra7criyTsfpohylhtaJszSHW6mhffMYVA==",
+  "dgSpecHash": "nvJ6Y5u4K2F8+MSHuyrFEUI0/mDDHKp5RSy3pptlR5dEHGHCFKTFUT2LXmPYhMpggZ92Z8MxF+j53t8tcXsPVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\Test\\UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\Test\\UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Agust\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Agust\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

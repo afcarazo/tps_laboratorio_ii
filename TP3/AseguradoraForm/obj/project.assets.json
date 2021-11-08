@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\AseguradoraForm\\AseguradoraForm.csproj",
+      "projectUniqueName": "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\AseguradoraForm\\AseguradoraForm.csproj",
       "projectName": "AseguradoraForm",
-      "projectPath": "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\AseguradoraForm\\AseguradoraForm.csproj",
+      "projectPath": "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\AseguradoraForm\\AseguradoraForm.csproj",
       "packagesPath": "C:\\Users\\Agust\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\AseguradoraForm\\obj\\",
+      "outputPath": "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\AseguradoraForm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\Entidadess\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\Entidadess\\Entidades.csproj"
+            "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\Entidadess\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\Entidadess\\Entidades.csproj"
             }
           }
         }

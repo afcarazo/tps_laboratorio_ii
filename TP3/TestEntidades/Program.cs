@@ -70,7 +70,11 @@ namespace TestEntidades
                 Console.WriteLine("json");
                 Console.WriteLine(asegurado3.ToString());
             }
-            catch(Exception e) 
+            catch (SerializarException ex)
+            {
+                Console.WriteLine($"{ex.Message},\n En la clase:{ex.Clase}, \n En el método: {ex.Metodo}\n {ex.InnerException.Message} ");
+            }
+            catch (Exception e) 
             {
                 Console.WriteLine(e.Message);
             }
@@ -102,11 +106,15 @@ namespace TestEntidades
                     Console.WriteLine(item.ToString());
                 }
             }
+            catch (SerializarException ex)
+            {
+                Console.WriteLine($"{ex.Message},\n En la clase:{ex.Clase}, \n En el método: {ex.Metodo}\n {ex.InnerException.Message} ");
+            }
             catch (Exception e)
             {
                 Console.WriteLine(e.InnerException.Message);
             }
-           
+
 
             //json
             try
@@ -133,13 +141,24 @@ namespace TestEntidades
                     Console.WriteLine(item.ToString());
                 }
 
-            } catch (Exception ex)
+            }
+            catch (SerializarException ex) 
+            { 
+                Console.WriteLine($"{ex.Message},\n En la clase:{ex.Clase}, \n En el método: {ex.Metodo}\n {ex.InnerException.Message} ");
+            }
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.InnerException.Message);
             }
 
             Estadistica estadistica =new Estadistica(aseguradora.Asegurados);
-         //   estadistica.GeneradorDeInformes();
+            estadistica.CantidadDeAutos();
+            estadistica.CantidadDeCamionetas();
+            estadistica.CantidadDeMotos();
+            estadistica.GeneroQueMasAseguraVehiculo();
+            estadistica.LocalidadQueMasAsegura();
+            estadistica.SeguroMasElevados();
+            estadistica.GeneroQueMasAseguraVehiculo();
 
             Console.ReadKey();
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\Test\\UnitTest.csproj": {}
+    "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\Test\\UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\Entidadess\\Entidades.csproj": {
+    "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\Entidadess\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\Entidadess\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\Entidadess\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\Entidadess\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\Entidadess\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Agust\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\Entidadess\\obj\\",
+        "outputPath": "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\Entidadess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\Test\\UnitTest.csproj": {
+    "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\Test\\UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\Test\\UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\Test\\UnitTest.csproj",
         "projectName": "UnitTest",
-        "projectPath": "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\Test\\UnitTest.csproj",
+        "projectPath": "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\Test\\UnitTest.csproj",
         "packagesPath": "C:\\Users\\Agust\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\Test\\obj\\",
+        "outputPath": "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\Entidadess\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Agust\\source\\repos\\Carazo.Agustina.TP3\\Entidadess\\Entidades.csproj"
+              "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\Entidadess\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Agust\\Desktop\\Trabajos practicos segundo cuatrimestre\\tps_laboratorio_ii\\TP3\\Entidadess\\Entidades.csproj"
               }
             }
           }

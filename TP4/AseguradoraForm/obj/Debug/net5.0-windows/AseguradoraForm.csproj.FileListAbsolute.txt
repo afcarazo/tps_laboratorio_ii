@@ -1,0 +1,87 @@
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.exe
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.deps.json
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.runtimeconfig.json
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.runtimeconfig.dev.json
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.dll
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\bin\Debug\net5.0-windows\ref\AseguradoraForm.dll
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.pdb
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.csproj.AssemblyReference.cache
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmAsegurado.resources
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmAsegurados.resources
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmPlanDePago.resources
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmPrincipal.resources
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmVehiculo.resources
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.csproj.GenerateResource.cache
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.AssemblyInfoInputs.cache
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.AssemblyInfo.cs
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.csproj.CoreCompileInputs.cache
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.csproj.CopyComplete
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.dll
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\ref\AseguradoraForm.dll
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.pdb
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.genruntimeconfig.cache
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmInformes.resources
+C:\Users\Agust\source\repos\Carazo.Agustina.TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.Properties.Resources.resources
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.exe
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.deps.json
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.runtimeconfig.json
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.runtimeconfig.dev.json
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\bin\Debug\net5.0-windows\ref\AseguradoraForm.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.pdb
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.csproj.AssemblyReference.cache
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmAsegurado.resources
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmAsegurados.resources
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmPlanDePago.resources
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmPrincipal.resources
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmVehiculo.resources
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.Properties.Resources.resources
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.csproj.GenerateResource.cache
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.AssemblyInfoInputs.cache
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.AssemblyInfo.cs
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.csproj.CoreCompileInputs.cache
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.csproj.CopyComplete
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\ref\AseguradoraForm.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.pdb
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.genruntimeconfig.cache
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP3\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmEstadistica.resources
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.exe
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.deps.json
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.runtimeconfig.json
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.runtimeconfig.dev.json
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\bin\Debug\net5.0-windows\ref\AseguradoraForm.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\bin\Debug\net5.0-windows\AseguradoraForm.pdb
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.csproj.AssemblyReference.cache
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmAsegurado.resources
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmAsegurados.resources
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmEstadistica.resources
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmPlanDePago.resources
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmPrincipal.resources
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.FrmVehiculo.resources
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.Properties.Resources.resources
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.csproj.GenerateResource.cache
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.AssemblyInfoInputs.cache
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.AssemblyInfo.cs
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.csproj.CoreCompileInputs.cache
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.csproj.CopyComplete
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\ref\AseguradoraForm.dll
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.pdb
+C:\Users\Agust\Desktop\Trabajos practicos segundo cuatrimestre\tps_laboratorio_ii\TP4\AseguradoraForm\obj\Debug\net5.0-windows\AseguradoraForm.genruntimeconfig.cache

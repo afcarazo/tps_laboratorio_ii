@@ -181,7 +181,7 @@ namespace AseguradoraForm
             this.BtnGenerarInformes.Name = "BtnGenerarInformes";
             this.BtnGenerarInformes.Size = new System.Drawing.Size(270, 34);
             this.BtnGenerarInformes.TabIndex = 8;
-            this.BtnGenerarInformes.Text = "Informes";
+            this.BtnGenerarInformes.Text = "Estadisticas";
             this.BtnGenerarInformes.UseVisualStyleBackColor = false;
             this.BtnGenerarInformes.Click += new System.EventHandler(this.BtnGenerarInformes_Click);
             // 

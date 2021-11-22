@@ -1,0 +1,20 @@
+﻿{
+  "Seguro": {
+    "PlanDePago": "Debito",
+    "TipoDeSeguro": "ResponsabilidadCivil",
+    "MontoTotal": 3300
+  },
+  "Vehiculo": {
+    "TipoVehiculo": "Auto",
+    "Anio": 2002,
+    "Patente": "ASDE22",
+    "Marca": "Chevrolet",
+    "Modelo": "Chevrolet Agile 1.4 LS/L14"
+  },
+  "Localidad": "Avellaneda",
+  "Email": "ernestogomez@gmail.com",
+  "Apellido": "Gomez",
+  "Genero": "Masculino",
+  "Dni": 43405871,
+  "Nombre": "Ernesto"
+}

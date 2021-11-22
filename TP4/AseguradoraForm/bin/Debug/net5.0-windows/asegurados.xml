@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAsegurado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>ResponsabilidadCivil</TipoDeSeguro>
+      <MontoTotal>6920</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Camioneta">
+      <TipoVehiculo>Camioneta</TipoVehiculo>
+      <Anio>2008</Anio>
+      <Patente>AOPE12</Patente>
+      <Marca>Peugeot</Marca>
+      <Modelo>peugeot 2008 1.6 active</Modelo>
+    </Vehiculo>
+    <Localidad>Berazategui</Localidad>
+    <Email>adriangomez@gmai.com</Email>
+    <Apellido>gomez</Apellido>
+    <Genero>Masculino</Genero>
+    <Dni>22456789</Dni>
+    <Nombre>adrian</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Efectivo</PlanDePago>
+      <TipoDeSeguro>ResponsabilidadCivil</TipoDeSeguro>
+      <MontoTotal>2755</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Auto">
+      <TipoVehiculo>Auto</TipoVehiculo>
+      <Anio>2018</Anio>
+      <Patente>JKIL22</Patente>
+      <Marca>Toyota</Marca>
+      <Modelo>toyota 86 ft</Modelo>
+    </Vehiculo>
+    <Localidad>Quilmes</Localidad>
+    <Email>mariaarreta@gmail.com</Email>
+    <Apellido>arreta</Apellido>
+    <Genero>Femenino</Genero>
+    <Dni>15489632</Dni>
+    <Nombre>maria</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>8738</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Auto">
+      <TipoVehiculo>Auto</TipoVehiculo>
+      <Anio>2019</Anio>
+      <Patente>WERF87</Patente>
+      <Marca>Chevrolet</Marca>
+      <Modelo>chevrolet camaro ss</Modelo>
+    </Vehiculo>
+    <Localidad>LomasDeZamora</Localidad>
+    <Email>jess565@hotmail.com</Email>
+    <Apellido>lopez</Apellido>
+    <Genero>NoBinario</Genero>
+    <Dni>14789456</Dni>
+    <Nombre>jess</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Efectivo</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>12368</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Camioneta">
+      <TipoVehiculo>Camioneta</TipoVehiculo>
+      <Anio>2017</Anio>
+      <Patente>LWRO66</Patente>
+      <Marca>Honda</Marca>
+      <Modelo>civic 2.0 ex-2017</Modelo>
+    </Vehiculo>
+    <Localidad>Berazategui</Localidad>
+    <Email>arielhernandez@gmail.com</Email>
+    <Apellido>henandez</Apellido>
+    <Genero>NoBinario</Genero>
+    <Dni>42456789</Dni>
+    <Nombre>ariel</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Efectivo</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>6393</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Moto">
+      <TipoVehiculo>Moto</TipoVehiculo>
+      <Anio>2012</Anio>
+      <Patente>GHTS12</Patente>
+      <Marca>Renault</Marca>
+      <Modelo>yamaha tornado</Modelo>
+      <MarcaMoto>Yamaha</MarcaMoto>
+      <Cilindrada>250</Cilindrada>
+    </Vehiculo>
+    <Localidad>LomasDeZamora</Localidad>
+    <Email>marceca@gmail.com</Email>
+    <Apellido>callejos</Apellido>
+    <Genero>Femenino</Genero>
+    <Dni>19456789</Dni>
+    <Nombre>marcela </Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>12798</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Camioneta">
+      <TipoVehiculo>Camioneta</TipoVehiculo>
+      <Anio>2017</Anio>
+      <Patente>IOPE78</Patente>
+      <Marca>Volkswagen</Marca>
+      <Modelo>vw 10.150 e 39 </Modelo>
+    </Vehiculo>
+    <Localidad>Wilde</Localidad>
+    <Email>tomaslopez@gmail.com</Email>
+    <Apellido>lopez</Apellido>
+    <Genero>Masculino</Genero>
+    <Dni>27456789</Dni>
+    <Nombre>tomas </Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>ResponsabilidadCivil</TipoDeSeguro>
+      <MontoTotal>6306</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Camioneta">
+      <TipoVehiculo>Camioneta</TipoVehiculo>
+      <Anio>2020</Anio>
+      <Patente>ASWT78</Patente>
+      <Marca>Honda</Marca>
+      <Modelo>honda cb1 125 cc</Modelo>
+    </Vehiculo>
+    <Localidad>Berazategui</Localidad>
+    <Email>noa48@hotmail.com</Email>
+    <Apellido>martinez</Apellido>
+    <Genero>NoBinario</Genero>
+    <Dni>42123789</Dni>
+    <Nombre>noa</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Efectivo</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>8713</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Moto">
+      <TipoVehiculo>Moto</TipoVehiculo>
+      <Anio>2021</Anio>
+      <Patente>RYTR45</Patente>
+      <Marca>Renault</Marca>
+      <Modelo>zanella styler </Modelo>
+      <MarcaMoto>Yamaha</MarcaMoto>
+      <Cilindrada>200</Cilindrada>
+    </Vehiculo>
+    <Localidad>Berazategui</Localidad>
+    <Email>juanp@hotmail.com</Email>
+    <Apellido>perez</Apellido>
+    <Genero>Masculino</Genero>
+    <Dni>16123456</Dni>
+    <Nombre>juan</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>ResponsabilidadCivil</TipoDeSeguro>
+      <MontoTotal>8311</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Camioneta">
+      <TipoVehiculo>Camioneta</TipoVehiculo>
+      <Anio>2021</Anio>
+      <Patente>OLDE78</Patente>
+      <Marca>Peugeot</Marca>
+      <Modelo>peugeot partner 1.6 furgon </Modelo>
+    </Vehiculo>
+    <Localidad>Avellaneda</Localidad>
+    <Email>valetin548@gmail.com</Email>
+    <Apellido>brizuela</Apellido>
+    <Genero>Masculino</Genero>
+    <Dni>22456789</Dni>
+    <Nombre>valentin</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>8699</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Auto">
+      <TipoVehiculo>Auto</TipoVehiculo>
+      <Anio>2020</Anio>
+      <Patente>VCDE45</Patente>
+      <Marca>Volkswagen</Marca>
+      <Modelo>vw 10.150 e 43</Modelo>
+    </Vehiculo>
+    <Localidad>Berazategui</Localidad>
+    <Email>juand@hotmail.com</Email>
+    <Apellido>dominguez</Apellido>
+    <Genero>Masculino</Genero>
+    <Dni>19716157</Dni>
+    <Nombre>juan</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Efectivo</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>8319</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Auto">
+      <TipoVehiculo>Auto</TipoVehiculo>
+      <Anio>2017</Anio>
+      <Patente>OIER85</Patente>
+      <Marca>Fiat</Marca>
+      <Modelo>fiat 500 1.4</Modelo>
+    </Vehiculo>
+    <Localidad>Glew</Localidad>
+    <Email>cami458@hotmail.com</Email>
+    <Apellido>diaz</Apellido>
+    <Genero>Femenino</Genero>
+    <Dni>43589321</Dni>
+    <Nombre>camila</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>8625</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Auto">
+      <TipoVehiculo>Auto</TipoVehiculo>
+      <Anio>2017</Anio>
+      <Patente>PYEF75</Patente>
+      <Marca>Chevrolet</Marca>
+      <Modelo>chevrolet camaro L/17</Modelo>
+    </Vehiculo>
+    <Localidad>Avellaneda</Localidad>
+    <Email>lud45@gmail.com</Email>
+    <Apellido>rodriguez</Apellido>
+    <Genero>Femenino</Genero>
+    <Dni>42789456</Dni>
+    <Nombre>ludmila</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>ResponsabilidadCivil</TipoDeSeguro>
+      <MontoTotal>3626</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Auto">
+      <TipoVehiculo>Auto</TipoVehiculo>
+      <Anio>2019</Anio>
+      <Patente>OERE45</Patente>
+      <Marca>Toyota</Marca>
+      <Modelo>toyota yaris cvt</Modelo>
+    </Vehiculo>
+    <Localidad>Quilmes</Localidad>
+    <Email>fio45@hotmai.com</Email>
+    <Apellido>holanda</Apellido>
+    <Genero>Femenino</Genero>
+    <Dni>44789152</Dni>
+    <Nombre>fiona</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>8933</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Auto">
+      <TipoVehiculo>Auto</TipoVehiculo>
+      <Anio>2020</Anio>
+      <Patente>FBEY45</Patente>
+      <Marca>Renault</Marca>
+      <Modelo>renault captur 1.6 life</Modelo>
+    </Vehiculo>
+    <Localidad>Berazategui</Localidad>
+    <Email>pepeperez@hotmail.com</Email>
+    <Apellido>perez</Apellido>
+    <Genero>Masculino</Genero>
+    <Dni>20456789</Dni>
+    <Nombre>pepe</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>12306</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Camioneta">
+      <TipoVehiculo>Camioneta</TipoVehiculo>
+      <Anio>2021</Anio>
+      <Patente>FGYR45</Patente>
+      <Marca>Fiat</Marca>
+      <Modelo>fiat 500 1.4 abarth 595 turismo</Modelo>
+    </Vehiculo>
+    <Localidad>Glew</Localidad>
+    <Email>eric45@gmail.com</Email>
+    <Apellido>dominguez</Apellido>
+    <Genero>NoBinario</Genero>
+    <Dni>27456124</Dni>
+    <Nombre>eric</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Efectivo</PlanDePago>
+      <TipoDeSeguro>ResponsabilidadCivil</TipoDeSeguro>
+      <MontoTotal>2107</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Moto">
+      <TipoVehiculo>Moto</TipoVehiculo>
+      <Anio>2021</Anio>
+      <Patente>FYER45</Patente>
+      <Marca>Renault</Marca>
+      <Modelo>yamaha mt03</Modelo>
+      <MarcaMoto>Yamaha</MarcaMoto>
+      <Cilindrada>321</Cilindrada>
+    </Vehiculo>
+    <Localidad>Lanus</Localidad>
+    <Email>joaquins@hotmail.com</Email>
+    <Apellido>salva</Apellido>
+    <Genero>Masculino</Genero>
+    <Dni>27458714</Dni>
+    <Nombre>joaquin</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Efectivo</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>9142</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Moto">
+      <TipoVehiculo>Moto</TipoVehiculo>
+      <Anio>2017</Anio>
+      <Patente>DYFE12</Patente>
+      <Marca>Renault</Marca>
+      <Modelo>elite 125</Modelo>
+      <MarcaMoto>Yamaha</MarcaMoto>
+      <Cilindrada>170</Cilindrada>
+    </Vehiculo>
+    <Localidad>Wilde</Localidad>
+    <Email>lucas48@gmail.com</Email>
+    <Apellido>medez</Apellido>
+    <Genero>Masculino</Genero>
+    <Dni>25456789</Dni>
+    <Nombre>lucas </Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>8214</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Moto">
+      <TipoVehiculo>Moto</TipoVehiculo>
+      <Anio>2021</Anio>
+      <Patente>FYFG78</Patente>
+      <Marca>Renault</Marca>
+      <Modelo>zanella cruiser 150</Modelo>
+      <MarcaMoto>Yamaha</MarcaMoto>
+      <Cilindrada>160</Cilindrada>
+    </Vehiculo>
+    <Localidad>Berazategui</Localidad>
+    <Email>mate45@gmail.com</Email>
+    <Apellido>lud</Apellido>
+    <Genero>Masculino</Genero>
+    <Dni>42456789</Dni>
+    <Nombre>mateo</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>ResponsabilidadCivil</TipoDeSeguro>
+      <MontoTotal>9067</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Camioneta">
+      <TipoVehiculo>Camioneta</TipoVehiculo>
+      <Anio>2021</Anio>
+      <Patente>FVET21</Patente>
+      <Marca>Renault</Marca>
+      <Modelo>sandero stepway 1.6 16v zen</Modelo>
+    </Vehiculo>
+    <Localidad>Lanus</Localidad>
+    <Email>amandap@gmail.com</Email>
+    <Apellido>prun</Apellido>
+    <Genero>Femenino</Genero>
+    <Dni>45321812</Dni>
+    <Nombre>amanda</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>13826</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Camioneta">
+      <TipoVehiculo>Camioneta</TipoVehiculo>
+      <Anio>1996</Anio>
+      <Patente>DYRE22</Patente>
+      <Marca>Honda</Marca>
+      <Modelo>honda accord 2.2 exr</Modelo>
+    </Vehiculo>
+    <Localidad>Berazategui</Localidad>
+    <Email>pau4@gmail.com</Email>
+    <Apellido>cabel</Apellido>
+    <Genero>Femenino</Genero>
+    <Dni>26894453</Dni>
+    <Nombre>paula</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>8216</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Auto">
+      <TipoVehiculo>Auto</TipoVehiculo>
+      <Anio>2020</Anio>
+      <Patente>FTER54</Patente>
+      <Marca>Fiat</Marca>
+      <Modelo>fiat 500 L 1.4 pop star</Modelo>
+    </Vehiculo>
+    <Localidad>LomasDeZamora</Localidad>
+    <Email>eze45@gmail.com</Email>
+    <Apellido>mor</Apellido>
+    <Genero>Masculino</Genero>
+    <Dni>19456789</Dni>
+    <Nombre>ezequiel </Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Efectivo</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>8530</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Auto">
+      <TipoVehiculo>Auto</TipoVehiculo>
+      <Anio>2019</Anio>
+      <Patente>FHER45</Patente>
+      <Marca>Chevrolet</Marca>
+      <Modelo>chevrolet agile 1.4 ls L/14</Modelo>
+    </Vehiculo>
+    <Localidad>LomasDeZamora</Localidad>
+    <Email>pame@hotmail.com</Email>
+    <Apellido>herandez</Apellido>
+    <Genero>Femenino</Genero>
+    <Dni>27899741</Dni>
+    <Nombre>pamela</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>ResponsabilidadCivil</TipoDeSeguro>
+      <MontoTotal>2187</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Auto">
+      <TipoVehiculo>Auto</TipoVehiculo>
+      <Anio>2018</Anio>
+      <Patente>FRED52</Patente>
+      <Marca>Honda</Marca>
+      <Modelo>honda cb1 125 cc</Modelo>
+    </Vehiculo>
+    <Localidad>Avellaneda</Localidad>
+    <Email>kia@gmail.com</Email>
+    <Apellido>comat</Apellido>
+    <Genero>NoBinario</Genero>
+    <Dni>23478115</Dni>
+    <Nombre>kia</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>12039</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Camioneta">
+      <TipoVehiculo>Camioneta</TipoVehiculo>
+      <Anio>2014</Anio>
+      <Patente>PORE45</Patente>
+      <Marca>Renault</Marca>
+      <Modelo>fiat doblo 1.4 active </Modelo>
+    </Vehiculo>
+    <Localidad>Wilde</Localidad>
+    <Email>rubenc@gmail.com</Email>
+    <Apellido>cape</Apellido>
+    <Genero>Masculino</Genero>
+    <Dni>29587156</Dni>
+    <Nombre>ruben </Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Efectivo</PlanDePago>
+      <TipoDeSeguro>ResponsabilidadCivil</TipoDeSeguro>
+      <MontoTotal>5109</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Camioneta">
+      <TipoVehiculo>Camioneta</TipoVehiculo>
+      <Anio>2018</Anio>
+      <Patente>FYER78</Patente>
+      <Marca>Volkswagen</Marca>
+      <Modelo>vw 10.150 e 43</Modelo>
+    </Vehiculo>
+    <Localidad>Berazategui</Localidad>
+    <Email>carlos@gmail.com</Email>
+    <Apellido>menz</Apellido>
+    <Genero>Masculino</Genero>
+    <Dni>19456789</Dni>
+    <Nombre>carlos</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>ResponsabilidadCivil</TipoDeSeguro>
+      <MontoTotal>7826</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Camioneta">
+      <TipoVehiculo>Camioneta</TipoVehiculo>
+      <Anio>2020</Anio>
+      <Patente>FRTE78</Patente>
+      <Marca>Toyota</Marca>
+      <Modelo>toyota 86 gt</Modelo>
+    </Vehiculo>
+    <Localidad>Avellaneda</Localidad>
+    <Email>antods453@gmail.com</Email>
+    <Apellido>mels</Apellido>
+    <Genero>Femenino</Genero>
+    <Dni>43404810</Dni>
+    <Nombre>antonia </Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>13444</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Camioneta">
+      <TipoVehiculo>Camioneta</TipoVehiculo>
+      <Anio>2014</Anio>
+      <Patente>DETR45</Patente>
+      <Marca>Chevrolet</Marca>
+      <Modelo>chevrolet onix 1.4 ltz mt 98cv</Modelo>
+    </Vehiculo>
+    <Localidad>Glew</Localidad>
+    <Email>vanesac@gmail.com</Email>
+    <Apellido>cott</Apellido>
+    <Genero>Femenino</Genero>
+    <Dni>27854126</Dni>
+    <Nombre>vanesa </Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>TercerosCompleto</TipoDeSeguro>
+      <MontoTotal>9501</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Moto">
+      <TipoVehiculo>Moto</TipoVehiculo>
+      <Anio>2018</Anio>
+      <Patente>FBER12</Patente>
+      <Marca>Renault</Marca>
+      <Modelo>yamaha r3 yzt </Modelo>
+      <MarcaMoto>Yamaha</MarcaMoto>
+      <Cilindrada>321</Cilindrada>
+    </Vehiculo>
+    <Localidad>Lanus</Localidad>
+    <Email>fedeg@gmail.com</Email>
+    <Apellido>gomez</Apellido>
+    <Genero>Masculino</Genero>
+    <Dni>43457894</Dni>
+    <Nombre>federico</Nombre>
+  </Asegurado>
+  <Asegurado>
+    <Seguro>
+      <PlanDePago>Debito</PlanDePago>
+      <TipoDeSeguro>ResponsabilidadCivil</TipoDeSeguro>
+      <MontoTotal>3524</MontoTotal>
+    </Seguro>
+    <Vehiculo xsi:type="Auto">
+      <TipoVehiculo>Auto</TipoVehiculo>
+      <Anio>2015</Anio>
+      <Patente>GTER45</Patente>
+      <Marca>Toyota</Marca>
+      <Modelo>toyota 86 gt aut</Modelo>
+    </Vehiculo>
+    <Localidad>Quilmes</Localidad>
+    <Email>sil@gmail.com</Email>
+    <Apellido>misw</Apellido>
+    <Genero>Femenino</Genero>
+    <Dni>22215489</Dni>
+    <Nombre>silvia</Nombre>
+  </Asegurado>
+</ArrayOfAsegurado>

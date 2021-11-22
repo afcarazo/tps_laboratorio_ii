@@ -18,7 +18,7 @@ namespace AseguradoraForm
         Aseguradora aseguradora;
         Asegurado asegurado;
         Serializador<List<Asegurado>> serializadorXML;
-        string ruta = @"..\..\..\..\Asegurados";
+        string ruta = Archivos.GeneradorRuta("asegurados.xml");
         #endregion
 
         #region Constructores
@@ -55,16 +55,6 @@ namespace AseguradoraForm
             {
                 e.Cancel = true;
             }
-            else
-            {
-                if (this.aseguradora.Asegurados.Count > 0)
-                {
-                    Archivos archivoTexto = new Archivos();
-                    archivoTexto.GuardarArchivo(@"..\..\..\..\Listadodeasegurados.txt", aseguradora.ToString());
-                }
-                
-            }
-          
         }
         /// <summary>
         /// Permite la carga de los datos que necesita el vehiculo
@@ -172,7 +162,7 @@ namespace AseguradoraForm
         /// <param name="e"></param>
         private void BtnGenerarInformes_Click(object sender, EventArgs e)
         {
-            FrmInformes frmInformes = new FrmInformes(this.aseguradora.Asegurados);
+            FrmEstadistica frmInformes = new FrmEstadistica(this.aseguradora.Asegurados);
             if (this.aseguradora.Asegurados.Count > 1)
             {
                 frmInformes.ShowDialog();
@@ -203,20 +193,15 @@ namespace AseguradoraForm
             try
             {
     
-                string ruta = @"..\..\..\..\CargarAsegurados";
-
-                if (!Directory.Exists(ruta))
-                {
-                    throw new ArchivosException("No se encontro el path del archivo");
-                }
                 if (MessageBox.Show($"Esta seguro de abrir un archivo?\nPerdera todos los cambios que ha realizado", "Advertencia", MessageBoxButtons.YesNo) == DialogResult.Yes)
                 {
-                    List<Asegurado> asegurados2 = new List<Asegurado>(this.serializadorXML.LeerArchivo($"{ruta}\\listadoAsegurados.xml"));
+                    List<Asegurado> asegurados2 = new List<Asegurado>(this.serializadorXML.LeerArchivo(this.ruta));
 
                     foreach (Asegurado item in asegurados2)
                     {
                         this.aseguradora += item;
                     }
+                    MessageBox.Show($"Se importo la lista de asegurados,\n Path:{this.ruta}");
                     this.BtnGenerarInformes.Enabled = true;
                     this.btnAsegurados.Enabled = true;
                 }
@@ -234,27 +219,21 @@ namespace AseguradoraForm
         private void BtnExportarDatos_Click(object sender, EventArgs e)
         {
             this.subMenuDatos.Visible = false;
+            this.subMenuDatos.Visible = false;
             try
             {
                 if (MessageBox.Show($"Esta seguro de que desea guardar el archivo?\nSe sobreescribiran los datos previos", "Advertencia", MessageBoxButtons.YesNo) == DialogResult.Yes)
                 {
-                    if (!Directory.Exists(this.ruta))
-                    {
-                        Directory.CreateDirectory(this.ruta);
-                    }
-                    else 
-                    {
-                        Directory.Delete(this.ruta,true);
-                        Directory.CreateDirectory(this.ruta);
-                    }
+
                     if (this.aseguradora.Asegurados.Count > 0)
                     {
-                        serializadorXML.GuardarArchivo($"{this.ruta}\\asegurados.xml", aseguradora.Asegurados);
+                        serializadorXML.GuardarArchivo(ruta, aseguradora.Asegurados);
+                        MessageBox.Show($"Se exportaron los datos,\nPath: {this.ruta}");
                     }
-                    else 
+                    else
                     {
                         MessageBox.Show("Primero deberia ingresar asegurados!");
-                    }  
+                    }
                 }
             }
             catch (SerializarException ex)

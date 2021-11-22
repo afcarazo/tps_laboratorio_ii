@@ -39,11 +39,11 @@ namespace AseguradoraForm
             // DgvAsegurados
             // 
             this.DgvAsegurados.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DgvAsegurados.Location = new System.Drawing.Point(71, 155);
+            this.DgvAsegurados.Location = new System.Drawing.Point(71, 116);
             this.DgvAsegurados.Name = "DgvAsegurados";
             this.DgvAsegurados.ReadOnly = true;
             this.DgvAsegurados.RowTemplate.Height = 25;
-            this.DgvAsegurados.Size = new System.Drawing.Size(717, 304);
+            this.DgvAsegurados.Size = new System.Drawing.Size(717, 515);
             this.DgvAsegurados.TabIndex = 0;
             // 
             // BtnAceptar
@@ -51,7 +51,7 @@ namespace AseguradoraForm
             this.BtnAceptar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Blue;
             this.BtnAceptar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BtnAceptar.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.BtnAceptar.Location = new System.Drawing.Point(654, 476);
+            this.BtnAceptar.Location = new System.Drawing.Point(654, 650);
             this.BtnAceptar.Name = "BtnAceptar";
             this.BtnAceptar.Size = new System.Drawing.Size(134, 35);
             this.BtnAceptar.TabIndex = 1;
@@ -64,7 +64,7 @@ namespace AseguradoraForm
             this.LblAsegurados.AutoSize = true;
             this.LblAsegurados.Font = new System.Drawing.Font("Cambria", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblAsegurados.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.LblAsegurados.Location = new System.Drawing.Point(71, 105);
+            this.LblAsegurados.Location = new System.Drawing.Point(71, 60);
             this.LblAsegurados.Name = "LblAsegurados";
             this.LblAsegurados.Size = new System.Drawing.Size(165, 32);
             this.LblAsegurados.TabIndex = 5;
@@ -75,7 +75,7 @@ namespace AseguradoraForm
             this.BtnBorrarAsegurado.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Blue;
             this.BtnBorrarAsegurado.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BtnBorrarAsegurado.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.BtnBorrarAsegurado.Location = new System.Drawing.Point(71, 476);
+            this.BtnBorrarAsegurado.Location = new System.Drawing.Point(71, 650);
             this.BtnBorrarAsegurado.Name = "BtnBorrarAsegurado";
             this.BtnBorrarAsegurado.Size = new System.Drawing.Size(134, 35);
             this.BtnBorrarAsegurado.TabIndex = 6;
@@ -88,7 +88,7 @@ namespace AseguradoraForm
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
-            this.ClientSize = new System.Drawing.Size(836, 580);
+            this.ClientSize = new System.Drawing.Size(836, 719);
             this.Controls.Add(this.BtnBorrarAsegurado);
             this.Controls.Add(this.LblAsegurados);
             this.Controls.Add(this.BtnAceptar);

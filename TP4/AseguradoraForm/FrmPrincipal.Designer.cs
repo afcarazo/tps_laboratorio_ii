@@ -113,7 +113,7 @@ namespace AseguradoraForm
             this.btnIngreseUsuario.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnIngreseUsuario.Image = ((System.Drawing.Image)(resources.GetObject("btnIngreseUsuario.Image")));
             this.btnIngreseUsuario.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnIngreseUsuario.Location = new System.Drawing.Point(3, 154);
+            this.btnIngreseUsuario.Location = new System.Drawing.Point(3, 126);
             this.btnIngreseUsuario.Name = "btnIngreseUsuario";
             this.btnIngreseUsuario.Size = new System.Drawing.Size(273, 34);
             this.btnIngreseUsuario.TabIndex = 4;
@@ -131,7 +131,7 @@ namespace AseguradoraForm
             this.btnPlanDePago.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnPlanDePago.Image = ((System.Drawing.Image)(resources.GetObject("btnPlanDePago.Image")));
             this.btnPlanDePago.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnPlanDePago.Location = new System.Drawing.Point(0, 254);
+            this.btnPlanDePago.Location = new System.Drawing.Point(0, 226);
             this.btnPlanDePago.Name = "btnPlanDePago";
             this.btnPlanDePago.Size = new System.Drawing.Size(267, 34);
             this.btnPlanDePago.TabIndex = 5;
@@ -149,7 +149,7 @@ namespace AseguradoraForm
             this.btnAsegurarOtro.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnAsegurarOtro.Image = ((System.Drawing.Image)(resources.GetObject("btnAsegurarOtro.Image")));
             this.btnAsegurarOtro.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAsegurarOtro.Location = new System.Drawing.Point(10, 305);
+            this.btnAsegurarOtro.Location = new System.Drawing.Point(10, 277);
             this.btnAsegurarOtro.Name = "btnAsegurarOtro";
             this.btnAsegurarOtro.Size = new System.Drawing.Size(273, 34);
             this.btnAsegurarOtro.TabIndex = 6;
@@ -167,7 +167,7 @@ namespace AseguradoraForm
             this.btnAsegurados.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnAsegurados.Image = ((System.Drawing.Image)(resources.GetObject("btnAsegurados.Image")));
             this.btnAsegurados.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAsegurados.Location = new System.Drawing.Point(3, 356);
+            this.btnAsegurados.Location = new System.Drawing.Point(3, 328);
             this.btnAsegurados.Name = "btnAsegurados";
             this.btnAsegurados.Size = new System.Drawing.Size(270, 34);
             this.btnAsegurados.TabIndex = 7;
@@ -185,7 +185,7 @@ namespace AseguradoraForm
             this.BtnGenerarInformes.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.BtnGenerarInformes.Image = ((System.Drawing.Image)(resources.GetObject("BtnGenerarInformes.Image")));
             this.BtnGenerarInformes.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.BtnGenerarInformes.Location = new System.Drawing.Point(0, 406);
+            this.BtnGenerarInformes.Location = new System.Drawing.Point(0, 378);
             this.BtnGenerarInformes.Name = "BtnGenerarInformes";
             this.BtnGenerarInformes.Size = new System.Drawing.Size(270, 34);
             this.BtnGenerarInformes.TabIndex = 8;
@@ -218,7 +218,7 @@ namespace AseguradoraForm
             this.PlMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.PlMenu.Location = new System.Drawing.Point(0, 42);
             this.PlMenu.Name = "PlMenu";
-            this.PlMenu.Size = new System.Drawing.Size(273, 710);
+            this.PlMenu.Size = new System.Drawing.Size(273, 677);
             this.PlMenu.TabIndex = 9;
             // 
             // subMenuBs
@@ -227,7 +227,7 @@ namespace AseguradoraForm
             this.subMenuBs.Controls.Add(this.btnExportarDatosBs);
             this.subMenuBs.Controls.Add(this.panel13);
             this.subMenuBs.Controls.Add(this.btnCargarDatosBs);
-            this.subMenuBs.Location = new System.Drawing.Point(20, 621);
+            this.subMenuBs.Location = new System.Drawing.Point(20, 593);
             this.subMenuBs.Name = "subMenuBs";
             this.subMenuBs.Size = new System.Drawing.Size(239, 79);
             this.subMenuBs.TabIndex = 24;
@@ -301,7 +301,7 @@ namespace AseguradoraForm
             this.btnBaseDatos.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnBaseDatos.Image = ((System.Drawing.Image)(resources.GetObject("btnBaseDatos.Image")));
             this.btnBaseDatos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnBaseDatos.Location = new System.Drawing.Point(7, 586);
+            this.btnBaseDatos.Location = new System.Drawing.Point(7, 558);
             this.btnBaseDatos.Name = "btnBaseDatos";
             this.btnBaseDatos.Size = new System.Drawing.Size(267, 34);
             this.btnBaseDatos.TabIndex = 19;
@@ -315,7 +315,7 @@ namespace AseguradoraForm
             this.subMenuDatos.Controls.Add(this.BtnExportarDatos);
             this.subMenuDatos.Controls.Add(this.panel10);
             this.subMenuDatos.Controls.Add(this.BtnCargarDatos);
-            this.subMenuDatos.Location = new System.Drawing.Point(26, 501);
+            this.subMenuDatos.Location = new System.Drawing.Point(26, 473);
             this.subMenuDatos.Name = "subMenuDatos";
             this.subMenuDatos.Size = new System.Drawing.Size(239, 79);
             this.subMenuDatos.TabIndex = 17;
@@ -389,7 +389,7 @@ namespace AseguradoraForm
             this.BtnDatos.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.BtnDatos.Image = ((System.Drawing.Image)(resources.GetObject("BtnDatos.Image")));
             this.BtnDatos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.BtnDatos.Location = new System.Drawing.Point(3, 466);
+            this.BtnDatos.Location = new System.Drawing.Point(3, 438);
             this.BtnDatos.Name = "BtnDatos";
             this.BtnDatos.Size = new System.Drawing.Size(270, 34);
             this.BtnDatos.TabIndex = 16;
@@ -408,7 +408,7 @@ namespace AseguradoraForm
             this.btnCargarDatosVehiculo.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnCargarDatosVehiculo.Image = ((System.Drawing.Image)(resources.GetObject("btnCargarDatosVehiculo.Image")));
             this.btnCargarDatosVehiculo.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnCargarDatosVehiculo.Location = new System.Drawing.Point(10, 204);
+            this.btnCargarDatosVehiculo.Location = new System.Drawing.Point(10, 176);
             this.btnCargarDatosVehiculo.Name = "btnCargarDatosVehiculo";
             this.btnCargarDatosVehiculo.Size = new System.Drawing.Size(270, 34);
             this.btnCargarDatosVehiculo.TabIndex = 3;
@@ -419,7 +419,7 @@ namespace AseguradoraForm
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
-            this.panel2.Location = new System.Drawing.Point(3, 204);
+            this.panel2.Location = new System.Drawing.Point(3, 176);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(5, 32);
             this.panel2.TabIndex = 10;
@@ -427,7 +427,7 @@ namespace AseguradoraForm
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
-            this.panel5.Location = new System.Drawing.Point(3, 406);
+            this.panel5.Location = new System.Drawing.Point(3, 378);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(5, 32);
             this.panel5.TabIndex = 14;
@@ -435,7 +435,7 @@ namespace AseguradoraForm
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
-            this.panel3.Location = new System.Drawing.Point(3, 256);
+            this.panel3.Location = new System.Drawing.Point(3, 228);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(5, 32);
             this.panel3.TabIndex = 11;
@@ -443,7 +443,7 @@ namespace AseguradoraForm
             // panel6
             // 
             this.panel6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
-            this.panel6.Location = new System.Drawing.Point(3, 356);
+            this.panel6.Location = new System.Drawing.Point(3, 328);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(5, 32);
             this.panel6.TabIndex = 15;
@@ -451,7 +451,7 @@ namespace AseguradoraForm
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
-            this.panel4.Location = new System.Drawing.Point(3, 154);
+            this.panel4.Location = new System.Drawing.Point(3, 126);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(5, 32);
             this.panel4.TabIndex = 12;
@@ -459,7 +459,7 @@ namespace AseguradoraForm
             // panel7
             // 
             this.panel7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
-            this.panel7.Location = new System.Drawing.Point(3, 305);
+            this.panel7.Location = new System.Drawing.Point(3, 277);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(5, 32);
             this.panel7.TabIndex = 13;
@@ -467,7 +467,7 @@ namespace AseguradoraForm
             // PcbFotoPrincipal
             // 
             this.PcbFotoPrincipal.Image = ((System.Drawing.Image)(resources.GetObject("PcbFotoPrincipal.Image")));
-            this.PcbFotoPrincipal.Location = new System.Drawing.Point(286, 246);
+            this.PcbFotoPrincipal.Location = new System.Drawing.Point(286, 303);
             this.PcbFotoPrincipal.Name = "PcbFotoPrincipal";
             this.PcbFotoPrincipal.Size = new System.Drawing.Size(538, 211);
             this.PcbFotoPrincipal.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -479,7 +479,7 @@ namespace AseguradoraForm
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
-            this.ClientSize = new System.Drawing.Size(836, 752);
+            this.ClientSize = new System.Drawing.Size(836, 719);
             this.Controls.Add(this.PcbFotoPrincipal);
             this.Controls.Add(this.PlMenu);
             this.Controls.Add(this.PlTitulo);

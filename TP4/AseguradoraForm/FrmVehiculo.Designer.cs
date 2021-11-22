@@ -51,7 +51,7 @@ namespace AseguradoraForm
             // TxtAnio
             // 
             this.TxtAnio.AccessibleDescription = "";
-            this.TxtAnio.Location = new System.Drawing.Point(76, 307);
+            this.TxtAnio.Location = new System.Drawing.Point(76, 335);
             this.TxtAnio.Name = "TxtAnio";
             this.TxtAnio.Size = new System.Drawing.Size(296, 23);
             this.TxtAnio.TabIndex = 3;
@@ -61,7 +61,7 @@ namespace AseguradoraForm
             this.LblAnio.AutoSize = true;
             this.LblAnio.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblAnio.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.LblAnio.Location = new System.Drawing.Point(203, 284);
+            this.LblAnio.Location = new System.Drawing.Point(203, 312);
             this.LblAnio.Name = "LblAnio";
             this.LblAnio.Size = new System.Drawing.Size(43, 17);
             this.LblAnio.TabIndex = 2;
@@ -70,7 +70,7 @@ namespace AseguradoraForm
             // BtnContinuar
             // 
             this.BtnContinuar.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.BtnContinuar.Location = new System.Drawing.Point(160, 401);
+            this.BtnContinuar.Location = new System.Drawing.Point(160, 516);
             this.BtnContinuar.Name = "BtnContinuar";
             this.BtnContinuar.Size = new System.Drawing.Size(134, 38);
             this.BtnContinuar.TabIndex = 7;
@@ -82,7 +82,7 @@ namespace AseguradoraForm
             // 
             this.cmbVehiculo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbVehiculo.FormattingEnabled = true;
-            this.cmbVehiculo.Location = new System.Drawing.Point(76, 183);
+            this.cmbVehiculo.Location = new System.Drawing.Point(76, 211);
             this.cmbVehiculo.Name = "cmbVehiculo";
             this.cmbVehiculo.Size = new System.Drawing.Size(296, 23);
             this.cmbVehiculo.TabIndex = 1;
@@ -93,7 +93,7 @@ namespace AseguradoraForm
             this.LblAsegurar.AutoSize = true;
             this.LblAsegurar.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblAsegurar.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.LblAsegurar.Location = new System.Drawing.Point(160, 163);
+            this.LblAsegurar.Location = new System.Drawing.Point(160, 191);
             this.LblAsegurar.Name = "LblAsegurar";
             this.LblAsegurar.Size = new System.Drawing.Size(150, 17);
             this.LblAsegurar.TabIndex = 8;
@@ -104,7 +104,7 @@ namespace AseguradoraForm
             this.LblMarca.AutoSize = true;
             this.LblMarca.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblMarca.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.LblMarca.Location = new System.Drawing.Point(203, 223);
+            this.LblMarca.Location = new System.Drawing.Point(203, 251);
             this.LblMarca.Name = "LblMarca";
             this.LblMarca.Size = new System.Drawing.Size(55, 17);
             this.LblMarca.TabIndex = 10;
@@ -114,7 +114,7 @@ namespace AseguradoraForm
             // 
             this.CmbMarca.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CmbMarca.FormattingEnabled = true;
-            this.CmbMarca.Location = new System.Drawing.Point(76, 243);
+            this.CmbMarca.Location = new System.Drawing.Point(76, 271);
             this.CmbMarca.Name = "CmbMarca";
             this.CmbMarca.Size = new System.Drawing.Size(296, 23);
             this.CmbMarca.TabIndex = 2;
@@ -124,7 +124,7 @@ namespace AseguradoraForm
             this.LblModelo.AutoSize = true;
             this.LblModelo.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblModelo.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.LblModelo.Location = new System.Drawing.Point(575, 157);
+            this.LblModelo.Location = new System.Drawing.Point(575, 185);
             this.LblModelo.Name = "LblModelo";
             this.LblModelo.Size = new System.Drawing.Size(65, 17);
             this.LblModelo.TabIndex = 12;
@@ -133,7 +133,7 @@ namespace AseguradoraForm
             // BtnCancelar
             // 
             this.BtnCancelar.BackColor = System.Drawing.Color.White;
-            this.BtnCancelar.Location = new System.Drawing.Point(527, 401);
+            this.BtnCancelar.Location = new System.Drawing.Point(527, 516);
             this.BtnCancelar.Name = "BtnCancelar";
             this.BtnCancelar.Size = new System.Drawing.Size(134, 38);
             this.BtnCancelar.TabIndex = 8;
@@ -144,7 +144,7 @@ namespace AseguradoraForm
             // TxtModelo
             // 
             this.TxtModelo.AccessibleDescription = "";
-            this.TxtModelo.Location = new System.Drawing.Point(458, 177);
+            this.TxtModelo.Location = new System.Drawing.Point(458, 205);
             this.TxtModelo.Name = "TxtModelo";
             this.TxtModelo.Size = new System.Drawing.Size(296, 23);
             this.TxtModelo.TabIndex = 4;
@@ -152,7 +152,7 @@ namespace AseguradoraForm
             // TxtPatente
             // 
             this.TxtPatente.AccessibleDescription = "";
-            this.TxtPatente.Location = new System.Drawing.Point(458, 242);
+            this.TxtPatente.Location = new System.Drawing.Point(458, 270);
             this.TxtPatente.Name = "TxtPatente";
             this.TxtPatente.Size = new System.Drawing.Size(296, 23);
             this.TxtPatente.TabIndex = 5;
@@ -162,7 +162,7 @@ namespace AseguradoraForm
             this.LblPatente.AutoSize = true;
             this.LblPatente.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblPatente.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.LblPatente.Location = new System.Drawing.Point(575, 222);
+            this.LblPatente.Location = new System.Drawing.Point(575, 250);
             this.LblPatente.Name = "LblPatente";
             this.LblPatente.Size = new System.Drawing.Size(64, 17);
             this.LblPatente.TabIndex = 14;
@@ -171,7 +171,7 @@ namespace AseguradoraForm
             // TxtCilindrada
             // 
             this.TxtCilindrada.AccessibleDescription = "";
-            this.TxtCilindrada.Location = new System.Drawing.Point(458, 307);
+            this.TxtCilindrada.Location = new System.Drawing.Point(458, 335);
             this.TxtCilindrada.Name = "TxtCilindrada";
             this.TxtCilindrada.Size = new System.Drawing.Size(296, 23);
             this.TxtCilindrada.TabIndex = 6;
@@ -181,7 +181,7 @@ namespace AseguradoraForm
             this.LblCilidrada.AutoSize = true;
             this.LblCilidrada.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblCilidrada.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.LblCilidrada.Location = new System.Drawing.Point(575, 287);
+            this.LblCilidrada.Location = new System.Drawing.Point(575, 315);
             this.LblCilidrada.Name = "LblCilidrada";
             this.LblCilidrada.Size = new System.Drawing.Size(86, 17);
             this.LblCilidrada.TabIndex = 16;
@@ -196,7 +196,7 @@ namespace AseguradoraForm
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
-            this.ClientSize = new System.Drawing.Size(836, 580);
+            this.ClientSize = new System.Drawing.Size(836, 719);
             this.Controls.Add(this.TxtCilindrada);
             this.Controls.Add(this.LblCilidrada);
             this.Controls.Add(this.TxtPatente);

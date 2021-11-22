@@ -45,7 +45,7 @@ namespace AseguradoraForm
             // btnCancelar
             // 
             this.btnCancelar.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnCancelar.Location = new System.Drawing.Point(536, 415);
+            this.btnCancelar.Location = new System.Drawing.Point(514, 549);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(134, 38);
             this.btnCancelar.TabIndex = 19;
@@ -56,7 +56,7 @@ namespace AseguradoraForm
             // btnAsegurar
             // 
             this.btnAsegurar.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnAsegurar.Location = new System.Drawing.Point(204, 415);
+            this.btnAsegurar.Location = new System.Drawing.Point(182, 549);
             this.btnAsegurar.Name = "btnAsegurar";
             this.btnAsegurar.Size = new System.Drawing.Size(134, 38);
             this.btnAsegurar.TabIndex = 18;
@@ -69,7 +69,7 @@ namespace AseguradoraForm
             this.lblTercerosCompleto.AutoSize = true;
             this.lblTercerosCompleto.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lblTercerosCompleto.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lblTercerosCompleto.Location = new System.Drawing.Point(128, 245);
+            this.lblTercerosCompleto.Location = new System.Drawing.Point(136, 270);
             this.lblTercerosCompleto.Name = "lblTercerosCompleto";
             this.lblTercerosCompleto.Size = new System.Drawing.Size(138, 17);
             this.lblTercerosCompleto.TabIndex = 17;
@@ -78,7 +78,7 @@ namespace AseguradoraForm
             // txtTercerosCompleto
             // 
             this.txtTercerosCompleto.AccessibleDescription = "";
-            this.txtTercerosCompleto.Location = new System.Drawing.Point(128, 279);
+            this.txtTercerosCompleto.Location = new System.Drawing.Point(136, 304);
             this.txtTercerosCompleto.Name = "txtTercerosCompleto";
             this.txtTercerosCompleto.ReadOnly = true;
             this.txtTercerosCompleto.Size = new System.Drawing.Size(296, 23);
@@ -89,7 +89,7 @@ namespace AseguradoraForm
             this.lblPlan.AutoSize = true;
             this.lblPlan.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lblPlan.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lblPlan.Location = new System.Drawing.Point(128, 110);
+            this.lblPlan.Location = new System.Drawing.Point(136, 135);
             this.lblPlan.Name = "lblPlan";
             this.lblPlan.Size = new System.Drawing.Size(144, 17);
             this.lblPlan.TabIndex = 15;
@@ -98,7 +98,7 @@ namespace AseguradoraForm
             // txtResponsabilidadCivil
             // 
             this.txtResponsabilidadCivil.AccessibleDescription = "";
-            this.txtResponsabilidadCivil.Location = new System.Drawing.Point(128, 196);
+            this.txtResponsabilidadCivil.Location = new System.Drawing.Point(136, 221);
             this.txtResponsabilidadCivil.Name = "txtResponsabilidadCivil";
             this.txtResponsabilidadCivil.ReadOnly = true;
             this.txtResponsabilidadCivil.Size = new System.Drawing.Size(296, 23);
@@ -109,7 +109,7 @@ namespace AseguradoraForm
             this.lblResponsabilidadCivil.AutoSize = true;
             this.lblResponsabilidadCivil.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lblResponsabilidadCivil.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lblResponsabilidadCivil.Location = new System.Drawing.Point(128, 160);
+            this.lblResponsabilidadCivil.Location = new System.Drawing.Point(136, 185);
             this.lblResponsabilidadCivil.Name = "lblResponsabilidadCivil";
             this.lblResponsabilidadCivil.Size = new System.Drawing.Size(158, 17);
             this.lblResponsabilidadCivil.TabIndex = 20;
@@ -119,7 +119,7 @@ namespace AseguradoraForm
             // 
             this.CmbFormaDePago.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CmbFormaDePago.FormattingEnabled = true;
-            this.CmbFormaDePago.Location = new System.Drawing.Point(506, 251);
+            this.CmbFormaDePago.Location = new System.Drawing.Point(514, 276);
             this.CmbFormaDePago.Name = "CmbFormaDePago";
             this.CmbFormaDePago.Size = new System.Drawing.Size(204, 23);
             this.CmbFormaDePago.TabIndex = 22;
@@ -129,7 +129,7 @@ namespace AseguradoraForm
             this.LblFormaDePago.AutoSize = true;
             this.LblFormaDePago.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblFormaDePago.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.LblFormaDePago.Location = new System.Drawing.Point(561, 216);
+            this.LblFormaDePago.Location = new System.Drawing.Point(569, 241);
             this.LblFormaDePago.Name = "LblFormaDePago";
             this.LblFormaDePago.Size = new System.Drawing.Size(109, 17);
             this.LblFormaDePago.TabIndex = 23;
@@ -140,7 +140,7 @@ namespace AseguradoraForm
             this.LblSeguro.AutoSize = true;
             this.LblSeguro.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblSeguro.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.LblSeguro.Location = new System.Drawing.Point(128, 335);
+            this.LblSeguro.Location = new System.Drawing.Point(136, 360);
             this.LblSeguro.Name = "LblSeguro";
             this.LblSeguro.Size = new System.Drawing.Size(133, 17);
             this.LblSeguro.TabIndex = 25;
@@ -150,7 +150,7 @@ namespace AseguradoraForm
             // 
             this.CmbTipoSeguro.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CmbTipoSeguro.FormattingEnabled = true;
-            this.CmbTipoSeguro.Location = new System.Drawing.Point(128, 367);
+            this.CmbTipoSeguro.Location = new System.Drawing.Point(136, 392);
             this.CmbTipoSeguro.Name = "CmbTipoSeguro";
             this.CmbTipoSeguro.Size = new System.Drawing.Size(204, 23);
             this.CmbTipoSeguro.TabIndex = 24;
@@ -160,7 +160,7 @@ namespace AseguradoraForm
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
-            this.ClientSize = new System.Drawing.Size(836, 580);
+            this.ClientSize = new System.Drawing.Size(836, 719);
             this.Controls.Add(this.LblSeguro);
             this.Controls.Add(this.CmbTipoSeguro);
             this.Controls.Add(this.LblFormaDePago);

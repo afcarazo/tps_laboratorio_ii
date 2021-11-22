@@ -219,7 +219,6 @@ namespace AseguradoraForm
         private void BtnExportarDatos_Click(object sender, EventArgs e)
         {
             this.subMenuDatos.Visible = false;
-            this.subMenuDatos.Visible = false;
             try
             {
                 if (MessageBox.Show($"Esta seguro de que desea guardar el archivo?\nSe sobreescribiran los datos previos", "Advertencia", MessageBoxButtons.YesNo) == DialogResult.Yes)
@@ -241,12 +240,20 @@ namespace AseguradoraForm
                 MessageBox.Show($"{ex.Message},\n En la clase:{ex.Clase}, \n En el método: {ex.Metodo}\n {ex.InnerException.Message} ");
             }
         }
-
+        /// <summary>
+        /// Hace visible submenu de base de datos
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnBaseDatos_Click(object sender, EventArgs e)
         {
             this.subMenuBs.Visible = true;
         }
-
+        /// <summary>
+        /// Permite importar datos de la base de datos
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnCargarDatosBs_Click_1(object sender, EventArgs e)
         {
             this.subMenuBs.Visible = false;
@@ -259,10 +266,12 @@ namespace AseguradoraForm
                     try
                     {
                         this.aseguradora.Asegurados = accederDatos.ObtenerListaAsegurado();
+                        this.btnAsegurados.Enabled = true;
                     }
                     catch (Exception)
                     {
                         MessageBox.Show("Ocurrio un problema al importar los datos");
+                        this.btnAsegurados.Enabled = false;
                     }
                    
                 }
@@ -272,7 +281,11 @@ namespace AseguradoraForm
                 MessageBox.Show("Ocurrio un problema con la conexión");
             }
         }
-
+        /// <summary>
+        /// Permite exportar datos a la base de datos
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnExportarDatosBs_Click(object sender, EventArgs e)
         {
             this.subMenuBs.Visible = false;
@@ -284,6 +297,9 @@ namespace AseguradoraForm
                 {
                     MessageBox.Show("Ocurrio un problema al agregar el asegurado");
                 }
+               
+                    MessageBox.Show("Exportado con exito!");
+                
             }
         }
         #endregion
@@ -300,8 +316,11 @@ namespace AseguradoraForm
             this.btnPlanDePago.Enabled = false;
             this.btnIngreseUsuario.Enabled = true;
         }
-        #endregion
 
+        /// <summary>
+        ///  Manejador de evento, cada vez que se ingrese una lista de asegurados o asegurados imprimira un txt con las entradas
+        /// </summary>
+        /// <param name="aseguradora">aseguradora de donde obtendra la lista de asegurados</param>
         public void TotalGenerado_Evento(Aseguradora aseguradora)
         {
             Encoding encoding = Encoding.UTF8;
@@ -327,6 +346,8 @@ namespace AseguradoraForm
             }
 
         }
+        #endregion
+
 
     }
 }

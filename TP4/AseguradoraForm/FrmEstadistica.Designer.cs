@@ -101,7 +101,7 @@ namespace AseguradoraForm
             this.pgbEstadisticas.BackColor = System.Drawing.Color.White;
             this.pgbEstadisticas.Location = new System.Drawing.Point(12, 171);
             this.pgbEstadisticas.Name = "pgbEstadisticas";
-            this.pgbEstadisticas.Size = new System.Drawing.Size(200, 21);
+            this.pgbEstadisticas.Size = new System.Drawing.Size(194, 26);
             this.pgbEstadisticas.TabIndex = 15;
             // 
             // FrmEstadistica
@@ -110,7 +110,7 @@ namespace AseguradoraForm
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
-            this.ClientSize = new System.Drawing.Size(836, 728);
+            this.ClientSize = new System.Drawing.Size(836, 719);
             this.Controls.Add(this.pgbEstadisticas);
             this.Controls.Add(this.lblCalculandoEstadistica);
             this.Controls.Add(this.lblMostrarEstadistica);

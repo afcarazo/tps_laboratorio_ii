@@ -52,11 +52,21 @@ namespace AseguradoraForm
             this.Close();
         }
 
-
-        #endregion
-   
         /// <summary>
-        /// guarda la etadistica en un txt
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void FrmInformes_Load(object sender, EventArgs e)
+        {
+
+            this.lblMostrarEstadistica.Text = "";
+            this.lblMostrarEstadistica.AutoSize = true;
+            Task task = new Task(() => GenerarEstadisticas());
+            task.Start();
+        }
+        /// <summary>
+        /// Permite guardar las estadisticas en un txt
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -75,15 +85,13 @@ namespace AseguradoraForm
             }
 
         }
+        #endregion
 
-        private void FrmInformes_Load(object sender, EventArgs e)
-        {
+        #region Métodos
 
-            this.lblMostrarEstadistica.Text = "";
-            this.lblMostrarEstadistica.AutoSize = true;
-            Task task = new Task(() => GenerarEstadisticas());
-            task.Start();
-        }
+        /// <summary>
+        /// Simula el proceso de calcular estadisticas
+        /// </summary>
         private void GenerarEstadisticas()
         {
             while (this.pgbEstadisticas.Maximum > this.pgbEstadisticas.Value)
@@ -92,6 +100,9 @@ namespace AseguradoraForm
                 Progreso();
             }
         }
+        /// <summary>
+        /// Aumenta la barra de proceso
+        /// </summary>
         private void Progreso()
         {
             if (this.pgbEstadisticas.InvokeRequired)
@@ -115,5 +126,6 @@ namespace AseguradoraForm
                 }
             }
         }
+        #endregion
     }
 }

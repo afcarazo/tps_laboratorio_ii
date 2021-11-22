@@ -51,7 +51,7 @@ namespace AseguradoraForm
             // BtnContinuar
             // 
             this.BtnContinuar.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.BtnContinuar.Location = new System.Drawing.Point(161, 382);
+            this.BtnContinuar.Location = new System.Drawing.Point(163, 514);
             this.BtnContinuar.Name = "BtnContinuar";
             this.BtnContinuar.Size = new System.Drawing.Size(134, 38);
             this.BtnContinuar.TabIndex = 8;
@@ -64,7 +64,7 @@ namespace AseguradoraForm
             this.LblLocalidad.AutoSize = true;
             this.LblLocalidad.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblLocalidad.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.LblLocalidad.Location = new System.Drawing.Point(399, 274);
+            this.LblLocalidad.Location = new System.Drawing.Point(398, 324);
             this.LblLocalidad.Name = "LblLocalidad";
             this.LblLocalidad.Size = new System.Drawing.Size(80, 17);
             this.LblLocalidad.TabIndex = 11;
@@ -75,7 +75,7 @@ namespace AseguradoraForm
             this.LblEmail.AutoSize = true;
             this.LblEmail.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblEmail.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.LblEmail.Location = new System.Drawing.Point(399, 189);
+            this.LblEmail.Location = new System.Drawing.Point(398, 239);
             this.LblEmail.Name = "LblEmail";
             this.LblEmail.Size = new System.Drawing.Size(55, 17);
             this.LblEmail.TabIndex = 9;
@@ -84,7 +84,7 @@ namespace AseguradoraForm
             // TxtEmail
             // 
             this.TxtEmail.AccessibleDescription = "";
-            this.TxtEmail.Location = new System.Drawing.Point(399, 223);
+            this.TxtEmail.Location = new System.Drawing.Point(398, 273);
             this.TxtEmail.Name = "TxtEmail";
             this.TxtEmail.Size = new System.Drawing.Size(296, 23);
             this.TxtEmail.TabIndex = 5;
@@ -92,7 +92,7 @@ namespace AseguradoraForm
             // BtnCancelar
             // 
             this.BtnCancelar.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.BtnCancelar.Location = new System.Drawing.Point(507, 382);
+            this.BtnCancelar.Location = new System.Drawing.Point(509, 514);
             this.BtnCancelar.Name = "BtnCancelar";
             this.BtnCancelar.Size = new System.Drawing.Size(134, 38);
             this.BtnCancelar.TabIndex = 9;
@@ -104,7 +104,7 @@ namespace AseguradoraForm
             // 
             this.CmbLocalidad.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CmbLocalidad.FormattingEnabled = true;
-            this.CmbLocalidad.Location = new System.Drawing.Point(399, 308);
+            this.CmbLocalidad.Location = new System.Drawing.Point(398, 358);
             this.CmbLocalidad.Name = "CmbLocalidad";
             this.CmbLocalidad.Size = new System.Drawing.Size(296, 23);
             this.CmbLocalidad.TabIndex = 6;
@@ -113,7 +113,7 @@ namespace AseguradoraForm
             // 
             this.CmbGenero.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CmbGenero.FormattingEnabled = true;
-            this.CmbGenero.Location = new System.Drawing.Point(399, 140);
+            this.CmbGenero.Location = new System.Drawing.Point(398, 190);
             this.CmbGenero.Name = "CmbGenero";
             this.CmbGenero.Size = new System.Drawing.Size(174, 23);
             this.CmbGenero.TabIndex = 4;
@@ -123,7 +123,7 @@ namespace AseguradoraForm
             this.LblGenero.AutoSize = true;
             this.LblGenero.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblGenero.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.LblGenero.Location = new System.Drawing.Point(399, 110);
+            this.LblGenero.Location = new System.Drawing.Point(398, 160);
             this.LblGenero.Name = "LblGenero";
             this.LblGenero.Size = new System.Drawing.Size(41, 17);
             this.LblGenero.TabIndex = 36;
@@ -134,7 +134,7 @@ namespace AseguradoraForm
             this.LblApellido.AutoSize = true;
             this.LblApellido.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblApellido.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.LblApellido.Location = new System.Drawing.Point(147, 274);
+            this.LblApellido.Location = new System.Drawing.Point(146, 324);
             this.LblApellido.Name = "LblApellido";
             this.LblApellido.Size = new System.Drawing.Size(68, 17);
             this.LblApellido.TabIndex = 35;
@@ -143,7 +143,7 @@ namespace AseguradoraForm
             // TxtApellido
             // 
             this.TxtApellido.AccessibleDescription = "";
-            this.TxtApellido.Location = new System.Drawing.Point(147, 308);
+            this.TxtApellido.Location = new System.Drawing.Point(146, 358);
             this.TxtApellido.Name = "TxtApellido";
             this.TxtApellido.Size = new System.Drawing.Size(166, 23);
             this.TxtApellido.TabIndex = 3;
@@ -153,7 +153,7 @@ namespace AseguradoraForm
             this.LblNumeroDni.AutoSize = true;
             this.LblNumeroDni.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblNumeroDni.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.LblNumeroDni.Location = new System.Drawing.Point(147, 110);
+            this.LblNumeroDni.Location = new System.Drawing.Point(146, 160);
             this.LblNumeroDni.Name = "LblNumeroDni";
             this.LblNumeroDni.Size = new System.Drawing.Size(73, 17);
             this.LblNumeroDni.TabIndex = 33;
@@ -164,7 +164,7 @@ namespace AseguradoraForm
             this.LblNombre.AutoSize = true;
             this.LblNombre.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.LblNombre.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.LblNombre.Location = new System.Drawing.Point(147, 189);
+            this.LblNombre.Location = new System.Drawing.Point(146, 239);
             this.LblNombre.Name = "LblNombre";
             this.LblNombre.Size = new System.Drawing.Size(64, 17);
             this.LblNombre.TabIndex = 32;
@@ -173,7 +173,7 @@ namespace AseguradoraForm
             // TxtNombre
             // 
             this.TxtNombre.AccessibleDescription = "";
-            this.TxtNombre.Location = new System.Drawing.Point(147, 223);
+            this.TxtNombre.Location = new System.Drawing.Point(146, 273);
             this.TxtNombre.Name = "TxtNombre";
             this.TxtNombre.Size = new System.Drawing.Size(166, 23);
             this.TxtNombre.TabIndex = 1;
@@ -181,7 +181,7 @@ namespace AseguradoraForm
             // TxtDni
             // 
             this.TxtDni.AccessibleDescription = "";
-            this.TxtDni.Location = new System.Drawing.Point(147, 140);
+            this.TxtDni.Location = new System.Drawing.Point(146, 190);
             this.TxtDni.Name = "TxtDni";
             this.TxtDni.Size = new System.Drawing.Size(166, 23);
             this.TxtDni.TabIndex = 0;
@@ -195,7 +195,7 @@ namespace AseguradoraForm
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(32)))), ((int)(((byte)(40)))));
-            this.ClientSize = new System.Drawing.Size(836, 580);
+            this.ClientSize = new System.Drawing.Size(836, 719);
             this.Controls.Add(this.CmbGenero);
             this.Controls.Add(this.LblGenero);
             this.Controls.Add(this.LblApellido);

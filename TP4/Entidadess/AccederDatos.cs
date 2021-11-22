@@ -16,15 +16,18 @@ namespace Entidades
         private SqlDataReader lector;
 
         #endregion
-    
 
         #region Constructores
-
+        /// <summary>
+        /// Constructor establece los datos de la conexion
+        /// </summary>
         static AccederDatos()
         {
-            AccederDatos.cadena_conexion = @"Server=DESKTOP-BCNMOT2;Database=Asegurados_DB;Trusted_Connection=True;";
+            AccederDatos.cadena_conexion = @"Server=localhost;Database=Asegurados_DB;Trusted_Connection=True;";
         }
-
+        /// <summary>
+        /// Constructor establece conexion
+        /// </summary>
         public AccederDatos()
         {
             this.conexion = new SqlConnection(AccederDatos.cadena_conexion);
@@ -35,7 +38,10 @@ namespace Entidades
         #region Métodos
 
         #region Probar conexión
-
+        /// <summary>
+        /// Se encarga de testear la conexion
+        /// </summary>
+        /// <returns>retorna false si ocurrio algun problema, de lo contrario retorna false</returns>
         public bool ProbarConexion()
         {
             bool rta = true;
@@ -62,7 +68,10 @@ namespace Entidades
         #endregion
 
         #region Select
-
+        /// <summary>
+        /// obtiene una lista de asegurados de la base de datos
+        /// </summary>
+        /// <returns> retorna lista de asegurados recuperada de la base de datos</returns>
         public List<Asegurado> ObtenerListaAsegurado()
         {
             List<Asegurado> lista = new List<Asegurado>();
@@ -150,6 +159,11 @@ namespace Entidades
 
         #region Insert
 
+        /// <summary>
+        /// Agrega un asegurado a la tabla de la base de datos
+        /// </summary>
+        /// <param name="param"></param>
+        /// <returns>retorna true si pudo agregar el asegurado, de lo contrario false</returns>
         public bool AgregarDato(Asegurado param)
         {
             bool rta = true;

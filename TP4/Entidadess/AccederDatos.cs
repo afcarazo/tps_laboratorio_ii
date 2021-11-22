@@ -23,7 +23,7 @@ namespace Entidades
         /// </summary>
         static AccederDatos()
         {
-            AccederDatos.cadena_conexion = @"Server=localhost;Database=Asegurados_DB;Trusted_Connection=True;";
+            AccederDatos.cadena_conexion = @"Server=localhost;Database=TP4_AgustinaCarazo;Trusted_Connection=True;";
         }
         /// <summary>
         /// Constructor establece conexion

@@ -286,7 +286,7 @@ namespace AseguradoraForm
             // panel14
             // 
             this.panel14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
-            this.panel14.Location = new System.Drawing.Point(0, 588);
+            this.panel14.Location = new System.Drawing.Point(3, 555);
             this.panel14.Name = "panel14";
             this.panel14.Size = new System.Drawing.Size(5, 32);
             this.panel14.TabIndex = 22;
@@ -301,11 +301,11 @@ namespace AseguradoraForm
             this.btnBaseDatos.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnBaseDatos.Image = ((System.Drawing.Image)(resources.GetObject("btnBaseDatos.Image")));
             this.btnBaseDatos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnBaseDatos.Location = new System.Drawing.Point(7, 558);
+            this.btnBaseDatos.Location = new System.Drawing.Point(9, 553);
             this.btnBaseDatos.Name = "btnBaseDatos";
-            this.btnBaseDatos.Size = new System.Drawing.Size(267, 34);
+            this.btnBaseDatos.Size = new System.Drawing.Size(261, 34);
             this.btnBaseDatos.TabIndex = 19;
-            this.btnBaseDatos.Text = "Base de Datos";
+            this.btnBaseDatos.Text = "Base de datos";
             this.btnBaseDatos.UseVisualStyleBackColor = false;
             this.btnBaseDatos.Click += new System.EventHandler(this.btnBaseDatos_Click);
             // 
@@ -374,7 +374,7 @@ namespace AseguradoraForm
             // panel8
             // 
             this.panel8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
-            this.panel8.Location = new System.Drawing.Point(0, 468);
+            this.panel8.Location = new System.Drawing.Point(3, 440);
             this.panel8.Name = "panel8";
             this.panel8.Size = new System.Drawing.Size(5, 32);
             this.panel8.TabIndex = 13;
@@ -389,9 +389,9 @@ namespace AseguradoraForm
             this.BtnDatos.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.BtnDatos.Image = ((System.Drawing.Image)(resources.GetObject("BtnDatos.Image")));
             this.BtnDatos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.BtnDatos.Location = new System.Drawing.Point(3, 438);
+            this.BtnDatos.Location = new System.Drawing.Point(10, 438);
             this.BtnDatos.Name = "BtnDatos";
-            this.BtnDatos.Size = new System.Drawing.Size(270, 34);
+            this.BtnDatos.Size = new System.Drawing.Size(266, 34);
             this.BtnDatos.TabIndex = 16;
             this.BtnDatos.Text = "Serializador";
             this.BtnDatos.UseVisualStyleBackColor = false;
@@ -467,7 +467,7 @@ namespace AseguradoraForm
             // PcbFotoPrincipal
             // 
             this.PcbFotoPrincipal.Image = ((System.Drawing.Image)(resources.GetObject("PcbFotoPrincipal.Image")));
-            this.PcbFotoPrincipal.Location = new System.Drawing.Point(286, 303);
+            this.PcbFotoPrincipal.Location = new System.Drawing.Point(289, 294);
             this.PcbFotoPrincipal.Name = "PcbFotoPrincipal";
             this.PcbFotoPrincipal.Size = new System.Drawing.Size(538, 211);
             this.PcbFotoPrincipal.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;

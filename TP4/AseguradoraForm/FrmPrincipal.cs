@@ -297,10 +297,9 @@ namespace AseguradoraForm
                 {
                     MessageBox.Show("Ocurrio un problema al agregar el asegurado");
                 }
-               
-                    MessageBox.Show("Exportado con exito!");
                 
             }
+            MessageBox.Show("Exportado con exito!");
         }
         #endregion
 

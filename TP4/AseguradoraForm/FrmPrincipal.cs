@@ -337,7 +337,7 @@ namespace AseguradoraForm
                     string listadoMontos = aseguradora.MontoTotalExt(out total);
                     escritor.WriteLine(listadoMontos);
                     escritor.WriteLine($"TOTAL: {total}");
-                    Console.WriteLine($"Se genero archivo con el total acumulado en el archivo TOTAL.txt en {ruta}");
+                    MessageBox.Show($"Se acumularon los ingresos en el archivo TOTAL.txt en {ruta}");
                 }
             }
             catch (Exception ex)
